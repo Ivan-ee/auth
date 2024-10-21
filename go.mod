@@ -1,4 +1,4 @@
-module github.com/ivan-ee/auth
+module github.com/Ivan-ee/auth
 
 go 1.23
 
